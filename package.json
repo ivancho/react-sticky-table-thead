@@ -4,7 +4,7 @@
   "description": "Easy to use wrapper component to enable fixed table head in tables",
   "author": "Adam 'BossBele' Beleko",
   "license": "MIT",
-  "repository": "LarvenLLC/react-sticky-table-thead",
+  "repository": "ivancho/react-sticky-table-thead",
   "bugs": {
     "url": "https://github.com/LarvenLLC/react-sticky-table-thead/issues"
   },
